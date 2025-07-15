@@ -1,1 +1,1 @@
-# portfolio
+This is Zoya Afshan’s first portfolio website using HTML and Tailwind CSS. It showcases my profile, skills, and projects. I learned about responsive design, Tailwind utility classes, and web structuring.  
